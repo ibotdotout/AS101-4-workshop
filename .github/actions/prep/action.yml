@@ -2,4 +2,4 @@ name: 'Prep'
 descript: 'Prepares the environment variables'
 runs:
    using: 'docker'
-    image: 'Dockerfile'
+   image: 'Dockerfile'
